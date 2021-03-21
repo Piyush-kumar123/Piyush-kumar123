@@ -7,7 +7,7 @@
       LinkedIn: https://www.linkedin.com/in/piyush-kumar-304b06148/
       Twitter: https://twitter.com/Piyushk03453414
       Email: piyush.kumar2019b@vitstudent.ac.in
-      Instagram: its_piyush110
+      Instagram: its.piyush110
 
 <!---
 Piyush-kumar123/Piyush-kumar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
